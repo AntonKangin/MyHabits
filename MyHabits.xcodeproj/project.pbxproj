@@ -58,13 +58,13 @@
 		F4A9FBBF26B93D1D0019B831 /* MyHabits */ = {
 			isa = PBXGroup;
 			children = (
+				F4A9FBD726B94A960019B831 /* LaucnScreen */,
 				F4A9FBD426B942B90019B831 /* HabitsStore */,
 				F4A9FBC026B93D1D0019B831 /* AppDelegate.swift */,
 				F4A9FBC226B93D1D0019B831 /* SceneDelegate.swift */,
 				F4A9FBC426B93D1D0019B831 /* ViewController.swift */,
 				F4A9FBC626B93D1D0019B831 /* Main.storyboard */,
 				F4A9FBC926B93D1E0019B831 /* Assets.xcassets */,
-				F4A9FBCB26B93D1E0019B831 /* LaunchScreen.storyboard */,
 				F4A9FBCE26B93D1E0019B831 /* Info.plist */,
 			);
 			path = MyHabits;
@@ -76,6 +76,14 @@
 				F4A9FBD526B942D80019B831 /* HabitsStore.swift */,
 			);
 			path = HabitsStore;
+			sourceTree = "<group>";
+		};
+		F4A9FBD726B94A960019B831 /* LaucnScreen */ = {
+			isa = PBXGroup;
+			children = (
+				F4A9FBCB26B93D1E0019B831 /* LaunchScreen.storyboard */,
+			);
+			path = LaucnScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
